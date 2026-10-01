@@ -25,3 +25,4 @@ psychology at the Pontificia Universidad Católica del Perú.
 ## Links
 
 - Website: [zettai.github.io](https://zettai.github.io/)
+- LinkedIn: [luissalasgonzales](https://www.linkedin.com/in/luissalasgonzales)
