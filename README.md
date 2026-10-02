@@ -13,6 +13,30 @@ accreditation and ten OpenAI Partner certifications (2026). He studied
 psychology at the Pontificia Universidad Católica del Perú.
 <!-- /public:bio-long -->
 
+## Work
+
+<!-- public:work -->
+- Platform engineering: led the internal developer platform pod of a
+  multi-team platform programme, delivering working Backstage and EventCatalog
+  instances across the client's existing repositories. Then used skills and
+  multi-agent AI flows to roll changes across a large estate of legacy
+  repositories, work the client had no in-house practice for yet.
+- Energy and utilities: team lead in a programme of about six teams that
+  rebuilt a customer self-service portal as React and Next.js micro frontends
+  on a modernized Java backend, with automated testing, quality gates, feature
+  flags and blue/green releases. Some flows shipped in five or more languages.
+- Education and professional services: front-end team lead for an ML-based
+  coaching platform, where learners answer on camera and their words are
+  scored against the intents each lesson expects. It shipped and is live.
+- Retail: first team lead role, on the front end of a multi-brand e-commerce
+  platform, setting delivery playbooks with the architects and running the
+  team's Scrum and code review.
+- Internal AI: front-end and platform engineer on a retrieval-augmented chat
+  assistant for a company event, built by about six people in five weeks.
+- Earlier, as an engineer: front-end and full-stack work for clients in
+  travel, finance, healthcare and biotech.
+<!-- /public:work -->
+
 ## Credentials
 
 <!-- public:certifications -->
