@@ -47,7 +47,7 @@ psychology at the Pontificia Universidad Católica del Perú.
   Practitioner, ChatGPT Deployment Practitioner, Codex Solutions Practitioner,
   API Deployment Practitioner, Cyber Solutions Practitioner, Codex Deployment
   Practitioner, Cyber Deployment Practitioner
-- GenAI certification, NTT DATA
+- GenAI Academy: Green Belt, NTT DATA, 2026
 <!-- /public:certifications -->
 
 ## Links
