@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="880" alt="">
+  <img src="assets/banner-light.svg" width="184" height="88" alt="">
 </picture>
 
 <!-- public:bio-long -->
