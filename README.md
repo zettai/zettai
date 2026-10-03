@@ -37,6 +37,15 @@ psychology at the Pontificia Universidad Católica del Perú.
   travel, finance, healthcare and biotech.
 <!-- /public:work -->
 
+## Volunteer
+
+<!-- public:volunteer -->
+- Civic tech (volunteer): UI lead for a free tool that helped Peruvian voters
+  filter election candidates by public records. Moved its API to serverless
+  functions and published it as an Android app, which reached 7,814 installs
+  around the 2021 election. The code is public on GitHub.
+<!-- /public:volunteer -->
+
 ## Credentials
 
 <!-- public:certifications -->
